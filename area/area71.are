@@ -1,0 +1,234 @@
+#AREADATA
+Name        {Dracos} Spell Training Area~
+Builders    None~
+VNUMs       100000 100010
+Security    9
+Recall      3001
+End
+
+
+
+#MOBILES
+#100000
+Stance Dragon~
+The Stance Dragon~
+The Stance Dragon is here
+~
+~
+2067 268435584 0 S
+5995 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#100000
+Stance Bracer of Cursed hit ~
+a Stance Bracer of Cursed hit~
+A Stance Bracer of Cursed hit is here~
+~
+9 0 4097
+0 0 0 0
+20 1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#100000
+Entrance to The Spell Training Temple~
+You are standing in the entrance to the Spell Training Templee. You 
+feel good knowing that this is a holy ground to which you can spell train with
+out bothering anybody.  The Temple itself is 200 feet tall and made from the
+best marble ever made.  You can go north to enter the temple or south to get back
+to the forest.
+~
+0 1028 0
+D0
+~
+~
+0 0 100001
+D2
+~
+~
+0 0 6001
+S
+#100001
+Just inside the temple~
+You are standing just inside the temple.  It is a magnificant sight, everything
+seems perfect here.  There is a Huge Statue in the middle of this room of Dracos. He
+is shown to be fighting some sort of beast.  There are rooms to your east and west to
+spell train in privately, the temple continues north.
+~
+0 9740 0
+D0
+~
+~
+0 0 100004
+D1
+~
+~
+0 0 100003
+D2
+~
+~
+0 0 100000
+D3
+~
+~
+0 0 100002
+S
+#100002
+A Training Room~
+You are standing in a Spell Training room.  You don't have to worry about people bothering
+you here so now you can spell train in peace.
+~
+0 9740 0
+D1
+~
+~
+0 0 100001
+S
+#100003
+A Training Room~
+You are standing inside a spell training room.  You can now spell train in peace without
+people bothoring you.
+~
+0 9740 0
+D3
+~
+~
+0 0 100001
+S
+#100004
+A Hallway~
+You are standing in a hallway.  There are paintings on the wall here, one of them
+looks to be of the master of the gods , Trace.  There are rooms to your east and west and
+the hallway continues north and south.
+~
+0 9228 0
+D0
+~
+~
+0 0 100007
+D1
+~
+~
+0 0 100006
+D2
+~
+~
+0 0 100001
+D3
+~
+~
+0 0 100005
+S
+#100005
+Training room~
+You are standing in a room to which you can spell train in.
+~
+0 9732 0
+D1
+~
+~
+0 0 100004
+S
+#100006
+A Training Room~
+You are standing in a room to which you can spell train in privately.
+~
+0 1548 0
+D3
+~
+~
+0 0 100004
+S
+#100007
+End of The Hallway~
+You are standing at the end of the Spell training Hallway. There are rooms east and west
+and to your north there is a stance training room.
+~
+0 9228 0
+D0
+~
+~
+24576 0 100010
+D1
+~
+~
+0 0 100009
+D2
+~
+~
+0 0 100004
+D3
+~
+~
+0 0 100008
+S
+#100008
+A Training Room~
+You are standing in a room to which you can spell train in.
+~
+0 9740 0
+D1
+~
+~
+0 0 100007
+S
+#100009
+A Training room~
+You are standing in a room to which you can spell train in.
+~
+0 9740 0
+D3
+~
+~
+0 0 100007
+S
+#100010
+Stance Training Room~
+You are standing in a stance training room. You may cast your mounts here to stance
+train with.
+The spell training rooms here are free, but to use the stance training mob
+you must pay a god 100 qps per every 2 stance dragons.
+~
+0 8 0
+D2
+~
+~
+24576 0 100007
+S
+#0
+
+
+
+#SPECIALS
+M 100000 spec_cast_adept
+S
+
+
+
+#RESETS
+M 0 10000 1 100010
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,94 @@
+#AREA	CLAN  Wolf HQ~
+
+
+#MOBILES
+#1700
+Fenris~
+The Fenris Wolf~
+The Fenris Wolf guards these halls.
+~
+The Fenris Wolf guards these halls.  And sneers at your appearance.
+~
+2 2|8|32|512|8192|32768|524288 1000 S
+800 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#ROOMS
+#1700
+Wolf Clan Recall~
+You are standing at Wolf Clan Recall
+~
+0 1 0
+D0
+~
+~
+0 -1 1702
+D1
+~
+~
+0 -1 1703
+D2
+~
+~
+0 -1 1701
+D3
+~
+~
+0 -1 1704
+S
+#1701
+Temple of Gaia~
+You are standing the temple of Gaia.  It is a crude stone structure of post and linter construction.
+~
+0 1024 0
+D0
+~
+~
+0 -1 1700
+S
+#1702
+Wolf Clan Hall~
+You are standing in a large cave, which the tribe sleeps.
+~
+0 1|8|8192 0
+D2
+~
+~
+0 -1 1700
+S
+#1703
+Caern~
+You are a clove of trees.  There is a rock with some rune engravings on it.
+~
+0 1|4|1024|8192 0
+D3
+~
+~
+0 -1 1700
+E
+rock engraving rune runes~
+There seems to be a list of spirit gates.
+Canyon, Midgaard, Mahn-Tor, Hightower, Draconia, Galaxy, Mega City.
+~
+S
+#1704
+Wolf Clan Meeting Grove~
+You are standing a dark grove of trees.  There seems to be a clearing in the center where there are many animal tracks about.
+~
+0 1|1024|8192 0
+D1
+~
+~
+0 -1 1700
+S
+#0
+
+
+#SPECIALS
+S
+
+
+#$

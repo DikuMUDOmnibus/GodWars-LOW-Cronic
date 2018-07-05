@@ -1,0 +1,187 @@
+#AREADATA
+Name        Katrina Old Silver Fangs HQ~
+Builders    None~
+VNUMs       9000 9005
+Security    3
+Recall      0
+End
+
+
+
+#MOBILES
+#9000
+Fenris~
+The Fenris Wolf~
+The Fenris Wolf guards these halls.
+~
+The Fenris Wolf guards these halls.  And sneers at your appearance.
+~
+67 136 1000 S
+983 2 2 1d1+1499 2d4+30
+12000 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#9000
+An old lounge~
+Dust covers every piece of furniture in here.  There are a few couches,
+however they've long since been torn to shreds, infested with maggots and
+small rodents.  What used to be an entertainment center sits in the corner,
+wires snapped by gnawing teeth and age.  The last room lies off to your
+east, and the intersection is back south.  
+~
+0 0 0
+D1
+~
+~
+0 -1 9003
+D2
+~
+~
+0 -1 9001
+S
+#9001
+A small intersection~
+The tunnel branches off to the north here, however the west looks like a
+solitary room.  An old wooden door hangs off of its hinges, mold covering it
+almost completely.  The lichen provides the only light now, letting you see
+but a few feet ahead of you.  
+~
+0 0 0
+D0
+~
+~
+0 -1 9000
+D1
+~
+~
+0 -1 9004
+D3
+~
+~
+0 -1 9002
+S
+#9002
+An old mage's workshop~
+You cough loudly as you step into this dusty room.  A rusted plaque sits
+on the wall, and you can still manage to make out the lettering on it.  The
+room tingles heavily of magic, and you feel warm just being in here.  The
+door is permanently open to your west, and there don't appear to be any
+other exits.  
+~
+0 0 0
+E
+sign plaque~
+The sign seems to be a list of areas.  The following are listed:
+Timelord, Galaxy, Sphinx, Member of Staff, Midgaard.
+~
+T
+sphinx~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 2652 0
+T
+staff~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 25008 0
+T
+midgaard~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 3001 0
+T
+timelord~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 2549 0
+T
+galaxy~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 9302 0
+D1
+~
+~
+0 -1 9001
+S
+#9003
+An old storage room~
+You stand in a room what was apparently used for storage.  Rusted swords
+and klaives sit on the floor, tarnished and completely useless.  Dust covers
+all of them, and what were once beautiful breastplates are now nothing more
+than scrap metal.  The exit lies to your west.  
+~
+0 1024 0
+D3
+~
+~
+0 -1 9000
+S
+#9004
+Inside the tunnel~
+The room smells musty, and a small torch on the wall sheds light about. 
+It seems to have been an underground complex at one time, however for some
+reason or another it was abandoned.  The scent of the sewers can still reach
+your nostrils, however it is gretly dulled.  Lichen grows on the walls,
+floor, and even ceiling, and it glows lightly, sending a bit of light about.
+~
+0 0 0
+D1
+~
+~
+0 -1 9005
+D3
+~
+~
+0 -1 9001
+S
+#9005
+Entrance to an old tunnel~
+The tunnel seems like it hasn't been traversed in quite some time,
+although it appears a bit brighter to your west.  It slopes gently downwards
+in that direction, whereas going ast would take you back to the sewers.  
+~
+0 0 0
+D1
+~
+~
+0 -1 7005
+D3
+~
+~
+0 -1 9004
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

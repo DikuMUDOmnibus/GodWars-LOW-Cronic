@@ -1,0 +1,574 @@
+#AREADATA
+Name        Order   DarkBlade clan HQ~
+Builders    None~
+VNUMs       30700 30799
+Security    3
+Recall      0
+End
+
+
+
+#MOBILES
+#30700
+healer succubus~
+The succubus~
+A lusty healer is here.
+~
+Although she is dressed in black robes, they do very little to conceal her
+shapely form.  You realise that she has noticed you staring, and quickly
+avert you gaze.  However, she seems pleased at your response and winks
+suggestively at you, running her tongue over her blood red lips.She leans
+forward and whispers softly 'I can do more than cast spells, you know...'.
+You gulp, and desperately try to stop looking down her cleavage.
+~
+3 8 300 S
+154 -3 -2 23d23+230 3d10+15
+25000 0
+0 0 1
+#30701
+mist darkness~
+The Mist of darkness~
+A dark mist is floating around in the room.
+~
+You see a twisting, swirling form made up from a dark oily black vapour.
+It twists around your body, whispering sweet insanities into your mind
+with its seductively sibilant voice.  You feel the cold, clammy touch of
+death as it brushes against you and the heat seems to be drawn from your
+very body.
+~
+3 8 100 S
+166 1 0 19d19+190 2d10+10
+10000 0
+0 0 2
+#30702
+demonic salesman~
+A demonic salesman~
+A very slick salesman dressed in an armani suit is here.
+~
+This guy could sell ice to eskimos!
+~
+67 136 1000 S
+12 -10 -20 1d1+1499 1d4+30
+5000 0
+0 0 1
+#30703
+black death knight~
+the Black Death Knight~
+A Knight clad in shiny black armor makes sure no trouble happens.
+~
+Underneath the visor of this knight's helm you think you can see
+a human skull!  Whatever this abomination of nature is... it sure
+looks tough!  The Death Knight is clad in all black.  
+~
+67 680 -1000 S
+998 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#30704
+red death knight~
+the Red Death Knight~
+A Knight clad in shiny red armor makes sure no trouble happens.
+~
+Underneath the visor of this knight's helm you think you can see
+a human skull!  Whatever this abomination of nature is... it sure
+looks tough!  The Death Knight is clad in all red.
+~
+67 136 1000 S
+2995 2 2 1d1+1499 2d4+30
+12000 0
+0 0 1
+#30706
+your erinye~
+The erinye~
+Your erinye is here waiting for you.
+~
+This is the most beautiful creature you have ever laid your eyes on, the
+only thing that shows she isn't human is a pair of feathred wings on her
+back.
+~
+3 0 900 S
+30 2 2 1d1+30000 1d8+32
+150000 0
+0 0 1
+#30707
+pit fiend~
+The pit fiend~
+The pit fiend stands here waiting to take your soul.
+~
+The pit fiend stands at slightly over 12 feet tall, with pale white skin
+stretched over a body of sharply defined, rippling muscle.  A pair of
+yellow slitted eyes meet your gaze, and you realise that to stand against
+this fell creature means more than simply death...
+~
+3 8 100 S
+133 1 0 19d19+190 2d10+10
+10000 0
+0 0 2
+#30797
+mephit fire~
+Zarkas`s pet~
+Zarkas`s fire mephit is here flying around.
+~
+It hurts your eyes to stare at it.
+~
+3 0 900 S
+5 2 2 1d1+30000 1d8+32
+100000 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#30799
+longsword sword~
+a rusty longsword~
+A rusty old longsword lies here.~
+~
+5 512 8193
+0 0 0 3
+5 10 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#30700
+Chamber of the Covenant~
+You stand within the dark halls of the Darkblade cult.  The cult's
+guardians move silently through the shadows ready to turn upon any being not
+initiated into the higher mysteries of the Darkblades.  Dimly lit arch-ways
+lead in all directions.  
+~
+0 12 0
+D0
+~
+~
+0 -1 30706
+D1
+~
+~
+0 -1 30701
+D2
+~
+~
+0 -1 30716
+D3
+~
+~
+0 -1 30705
+D5
+~
+~
+0 -1 30719
+S
+#30701
+A hallway~
+This is a hallway in the Darkblade HQ.  To the north is armortech, where
+you can buy your clan equipment, to the south is a very strange room.  The
+hallway continues to the west, and to the east lies the main chamber. 
+~
+0 1032 0
+D0
+~
+~
+0 -1 30703
+D1
+~
+~
+0 -1 30702
+D2
+~
+~
+0 -1 30704
+D3
+~
+~
+0 -1 30700
+S
+#30702
+A hallway~
+The hallway ends here.  To the north south and east are the offices of
+the leaders of your clan.  To the west is the begining of the hallway.
+You hear a clock in the distance strike midnight.
+~
+0 8201 0
+D0
+~
+~
+0 -1 30713
+D1
+~
+~
+0 -1 30715
+D2
+~
+~
+0 -1 30712
+D3
+~
+~
+0 -1 30701
+S
+#30703
+Armortech~
+This is the store for top of the line state of the art equipment.  The store
+has a limited inventory because it's personalized to the Darkblades's needs.
+There is a faint blue light emanating for a place that you can't seem to
+pinpoint.  This gives the room a very cold effect on you.  You don't like
+this place much but its the only place that carries Darkblade signature
+equipment.
+~
+0 8201 0
+D2
+~
+~
+0 -1 30701
+S
+#30704
+Hall of Mirrors~
+The Many Mc's and Mac's pop up here and there and all over the place.  You
+can't seem to tell wich are real and which are illusions.  The room starts
+to confuse you and you become disoriented.  McBeth show's you the door...
+Or was it McBeth?
+~
+0 8201 0
+D0
+~
+~
+0 -1 30701
+S
+#30705
+The holding cell~
+This small chamber serves as the cult's prisoner cell and interro-
+gation room.  Blood stains cover the walls, ceiling, and floor.  Opposite the
+entrance a pair of silver manacles are chained to wall.  It is here that the
+enemies of the cult are tortured for both information as well as for the
+pleasure of sheer violence.
+~
+0 8201 0
+D1
+~
+~
+0 -1 30700
+S
+#30706
+Room of healing~
+It is in this domed shaped room that the members of the cult come with
+the sacrifices that supplicate the often bizarre and gory hunger of their
+dark patron.  The room is dominated by a black obsidian alter upon which lie
+the bloody remains of the latest sacrifice.  To the north you hear the
+murmor of subdued conversation.  Exits lead in all directions.
+~
+0 8201 0
+D0
+~
+~
+0 -1 30710
+D1
+~
+~
+0 -1 30709
+D2
+~
+~
+0 -1 30700
+D3
+~
+~
+0 -1 30707
+S
+#30707
+The donation room~
+This small room is lit by patches of faintly glowing green moss on the
+walls and ceiling.  In the centre of the room sits a large steel box.  It
+seems to be open, and within you can see a selection of odd items, donated
+from various DarkBlades to help any brothers or sisters who are lacking some
+vital piece of equipment.  From time to time, a drop of liquid falls from
+the ceiling.  Looking up, you see several small stalactites of hardened
+blood pointing downwards like spears.
+~
+0 1032 0
+D1
+~
+~
+0 -1 30706
+D3
+~
+~
+0 -1 30708
+S
+#30708
+a small alcove~
+No one remembers designing this in the plans of the HQ.  You feel it is a
+Holy Place but it doesn't quite fit in with everything else here.
+You notice a starnge smell from the small statue in the back of room.
+~
+0 8201 0
+D1
+~
+~
+0 -1 30707
+S
+#30709
+The Bulletin Room~
+You walk into a room with notes plastered all over the walls.  The notes
+have been placed here by your fellow clan members for you to read.  The
+Darkblades pride themselves on being well informed.  Make sure that you keep
+up with the bulletins.
+~
+0 1032 0
+D3
+~
+~
+0 -1 30706
+S
+#30710
+The Hidden Blade Tavern~
+This is the roudy tavern of the Darkblades.  After a clanwar you may down
+a cold bottle of ale and have a hot meal.  The tavern has paintings of all
+the Darkblade hero's on the walls, depicting their infamous conquests.
+This is one of the most relaxing places for a Darkblade, everyone needs
+to unwind sometime.
+~
+0 8201 0
+D1
+~
+~
+0 -1 30711
+D2
+~
+~
+0 -1 30706
+S
+#30711
+A Dimly lit table in the Tavern~
+The Godfather of the Darkblades tells you
+"Our clan is a clan dedicated to war, murder, thievery, and betrayal against
+other clans, we do have a form of honor though.  All darkblades are like a
+family. We help other darkblades at all costs, we usually only takes the best
+into our clan, so we dont have a lot of worthless members like some of the
+other clans, so feel special for having been invited to join us."
+~
+0 8201 0
+D3
+~
+~
+0 -1 30710
+S
+#30712
+Zarkas's Room~
+This small, dark room is devoid of furnishings, save for the heads of
+Zarkas's personal conquests, which hang from the ceiling and walls in
+abundance.  Centuries old blood stains the floor, filling the room with the
+sickly sweetscent of decay.  The damp atmosphere seems to penetrate your
+clothing, chilling you to your very bones.
+~
+0 8201 0
+D0
+~
+~
+0 -1 30702
+S
+#30713
+Kavir's Room~
+You stand in a room of overwhelming darkness.  Faint patches of glowing
+green moss provide a small measure of light, but this seems only to
+exaggerate the darkness rather than dispel it, and a shudder of repressed
+fear runs down your spine.  Strange arcane symbols of evil have been painted
+in blood upon the floor and walls, and the smell of death lies heavily in
+the air.
+~
+0 8201 0
+D2
+~
+~
+0 -1 30702
+D5
+~
+~
+0 0 30714
+S
+#30714
+The Valley of Seven~
+This valley is a physical impossibility...It rests between the two highest
+mountain chains in the world. There are no known entrances, in fact the
+mountains themselves are said to be made from the original matter first
+created by the gods. Time has not worn the mountain peaks, they are jagged,
+sharp, a testament to creation. The substance from which the mountain is
+made is so hard and solid in fact, that it appears as if this place would
+survive the end of the world. Here, in this solitary, frozen place, gather
+the souls of the Kensai who have gone before. You can make out statues set
+along the valley, wearing all manner of dress, some you can recognize as being
+the style of towns near you, some, it would seem are completely bizzare.
+~
+0 9224 0
+D4
+~
+~
+0 0 30713
+S
+#30715
+Malice's Torture Chamber~
+You enter a large domed room, the ceiling of which is hidden in shadows.
+At the center of the room is a large table upon which lie various implements
+of torture ranging from thumb screws to economics text books.  Around the
+room stands an honor guard of Death Knights, fallen warriors doomed to serve
+their dark master There is a rack at the center of the room.
+~
+0 8201 0
+D3
+~
+~
+0 -1 30702
+S
+#30716
+The Tapestries~
+Intricately woven tapestries hang upon the eastern and western walls of
+this hallway.  The tapestry to the east depicts the city of Ofcol which
+has often supplied the Brothers and Sisters of the cult with the blood
+essential to their survival.  The tapestry on the western wall shows the
+market square at the heart of the city of Midgaard.  The hallway continues
+both north and south.
+~
+0 8201 0
+D0
+~
+~
+0 -1 30700
+D2
+~
+~
+0 -1 30717
+D3
+~
+~
+0 -1 3014
+S
+#30717
+The Tapestries~
+As the hallway continues from the north you come upon yet another
+set of tapestries.  The one to the east shows a village of ogres going
+about the menial chores of daily life while the tapestry to the west
+shows a beautiful sorceress in the midst of the performance of ritual
+necromancy.  The hallway continues to the north and south.
+~
+0 8201 0
+D0
+~
+~
+0 -1 30716
+D2
+~
+~
+0 -1 30718
+S
+#30718
+The Tapestries~
+There is a sign here, type look sign to see where you can go.
+~
+0 8201 0
+E
+sign~
+The sign seems to be a list of areas.  The following are listed:
+Drow, MIdgaard, Doom, Atlantis, and staff member.
+~
+T
+staff~
+$n is engulfed in flames and vanishes into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 25008 0
+T
+atlantis~
+$n is engulfed in flames and vanishes
+
+into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 8130 0
+T
+doom~
+$n is engulfed in flames and vanishes
+
+into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 11053 0
+T
+midgaard~
+$n is engulfed in flames and vanishes
+
+into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 3001 0
+T
+drow~
+$n is engulfed in flames and vanishes
+
+into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 5134 0
+D0
+~
+~
+0 -1 30717
+S
+#30719
+The black pit~
+You clamber down into a large black pit. The temperature is well below
+freezing here, but the thing that really chills you to the bones is the
+realization that the misty vapours you saw earlier were in fact the condemed
+souls of those foolish enough to cross the DarkBlades.  You desperately try.
+The temperature is well below freezing here, but the thing that really
+chills you to the bones is the realization that the misty vapours you saw
+earlier were in fact the condemed souls of those foolish enough to cross
+the DarkBlades. You desperately try  all to no avail. You are trapped,
+and it can only be so long before the master of the pit returns to claim
+his prize...your soul.~
+0 8201 0
+D4
+~
+~
+0 -1 30700
+S
+#0
+
+
+
+#SPECIALS
+M 30700 spec_cast_adept
+S
+
+
+
+#RESETS
+M 0 30703 1 30700
+M 0 30704 1 30700
+M 0 30702 1 30703
+M 0 30701 1 30705
+M 0 30700 1 30706
+M 0 30797 1 30712
+M 0 30706 1 30715
+M 0 30706 1 30715
+M 0 30707 1 30719
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

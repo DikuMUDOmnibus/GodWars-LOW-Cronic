@@ -1,0 +1,117 @@
+#AREADATA
+Name        (XeNos)	SeaHaven    The Gods Area~
+Builders    None~
+VNUMs       1200 1213
+Security    3
+Recall      0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#1200
+Trace's Room~
+You are lounging in a quiet cosy parlour, warmed by a gentle magical fire
+which twinkles happily in a warm fireplace.  There are no doors out. 
+Clearly the owner of this room needs none.  
+~
+0 4 0
+S
+#1201
+The God's Lounge~
+You are in a large room with many chairs and footrests, some fabric, some
+leather.  A fireplace burns brightly here, and you feel at peace.  There are 
+no doors leading to or from this mystical place.
+~
+0 28 0
+S
+#1202
+Da Fuzzy One, High Lord of (HEMP) Outdoors Indoors~
+It is hard to tell if you just stepped outdoors or you are still
+inside. This room rests against an enormous redwood tree, which forms the 
+inner wall.  Some lower branches reach out across the room towards the
+sunlight which streams through the glass ceiling.  Large Wratton basket
+chairs filled with enormous soft cushions swing from the tree's branches. 
+During the heat of the day, or when da Wolf seeks night, the glass
+ceiling darkens until the room has the comfort of a shaded spot in deep
+forest or a cave buried in the face of a mountain.  The roof slants
+gradually from its peak 20 feet up the side of the tree to a bare 8
+inches from the thick dark green moss which cushions the floor.  A very
+fine screen forms the short remaining wall.  The mesh seems to disappear
+when you attempt to look closely at it.  A bubbling stream fills the pond 
+at the center of the room, and the force of the water forms a small
+fountain.
+~
+0 1052 0
+S
+#1203
+The Clearing~
+You hear the soft murmur of a brook nearby, accompanied by the soft rumble of a waterfall cascading down a small rock face. Lush greenery of ivy, grass and small shrubs grow around the edges of the clearing, a wall of trees just behind them. Soft sunlight
+
+
+
+
+
+
+ spills from the thin canopy above, bathing the area in warmth and light.
+~
+0 4 3
+E
+brook~
+A small brook runs through here, bubbling lightly as it drops off the two-foot drop into a small puddle, then continuing on its way.~
+E
+trees~
+A wall of trees leads into the forest.~
+E
+sun~
+Soft sunlight surrounds the area, warming you.~
+S
+#1204
+Dracos's Room~
+You are standing in Dracos's Room...You better leave if you werent invited!!
+~
+0 25630 0
+S
+#1212
+Room of the Mooglementor~
+Woopie doo da, you are in SirMog's room.  Do people actually have
+CONFIG -BRIEF?  Room descriptions sure are spammy. Heh heh.
+~
+0 24588 0
+S
+#1213
+Sage's Room Of Sex~
+HeH descriptions sucks BALLZ!
+~
+0 24588 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

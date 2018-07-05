@@ -1,0 +1,101 @@
+#AREADATA
+Name        Trace   HL HQ~
+Builders    Trace~
+VNUMs       9500 9502
+Security    3
+Recall      0
+End            
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+#ROOMS
+#9500
+Highlander Lounge~
+Scattered amongst the room are lazyboy recliners and couches.  In the corner is the biggest entertainment system you have ever seen.
+~
+0 1024 0
+D1
+~
+~
+0 -1 9501
+D3
+~
+~
+0 -1 9502
+S
+
+#9501
+Portals~
+There are shimmering portals everywhere.
+Just look at the sign or plaque.
+~
+0 0 0
+D3
+~
+~
+0 -1 9500
+E
+sign plaque~
+The sign seems to be a list of areas.  The following are listed:
+Timelord, Galaxy, Sphinx, Member of Staff, Midgaard.
+~
+T
+sphinx~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 2652 0
+T
+staff~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 25008 0
+T
+midgaard~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 3001 0
+T
+timelord~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 2549 0
+T
+galaxy~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 9302 0
+S
+
+#9502
+Highlandrer Entrance~
+The entrance to this place relays a message to you...
+'GET OUT IF YOU AREN'T HIGHLANDERS!'
+~
+0 0 0
+D1
+~
+~
+0 -1 9500
+D3
+~
+~
+0 -1 2904
+S
+#0
+
+S
+
+#SPECIALS
+s
+
+#$

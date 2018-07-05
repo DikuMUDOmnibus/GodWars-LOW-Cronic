@@ -1,0 +1,374 @@
+#AREA	Arkyn  Arkyn's Abode: STAY OUT!~
+
+
+#MOBILES
+#13700
+dragon pet~
+The Guadian Dragon~
+A mechanical dragon roams the halls looking fot intruders
+~
+The guardian dragon looks back at you!
+~
+32|64|8192 2|4|8|32|128|512|8192|32768|65536|524288|1048576|4194304 1000 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#13700
+band defense~
+a Cybertronic Defense Band~
+A metalic bracer lies here.~
+~
+9 2 1|4096
+0 1 0 0 
+1 0 0
+A
+17 -100
+A
+18 10
+A
+19 20
+#13701
+glove power~
+a pair of MkX Power Gloves~
+A pair of gloves lie here, humming with armour.~
+~
+9 2 1|128
+0 1 0 0 
+1 0 0
+A
+19 10
+A
+18 5
+A
+1 5
+#13702
+sleeves~
+a set of Powered Armour Sleeves~
+A a set of powered sleeves lie here, humming with power.~
+~
+9 2 1|256
+0 1 0 0 
+5 0 0
+A
+18 4
+A
+19 6
+A
+17 -20
+#13703
+ring wedding~
+a wedding ring~
+A wedding ring lies here, with a large diamond set in it.~
+~
+9 1|4096 1|2
+0 1 0 0 
+1 0 0
+A
+24 -5
+A
+18 4
+A
+19 4
+#13704
+ring band wedding~
+a gold wedding band~
+A a gold wedding band lies here.~
+~
+9 64|4096 1|2
+0 1 0 0 
+5 0 0
+A
+1 2
+A
+18 4
+A
+19 4
+#13705
+bed~
+a large king size bed~
+A large king size bed lies here.  It is highly dcorated.~
+~
+12 0 0
+0 1 0 0 
+200 0 0
+#13706
+altar~
+a small altar~
+A small altar dedicated to the Lords of Law stands in the corner.~
+~
+15 1|2|64|512 0
+300 13 13707 0 
+50 0 0
+#13707
+key arkyn~
+a small golden key~
+A small golden key floats in mid air.~
+~
+18 1|2|32|64 1|16384
+0 0 0 0 
+1 0 0
+A
+4 5
+A
+3 5
+A
+5 2
+#13708
+closet cabinet~
+a a glass cabinet~
+A glass cabinet is on the wall containgin a myriay of arcane items.~
+~
+15 2 0
+500 0 13707 0 
+200 0 0
+#13709
+mirror gate~
+a large silver mirror~
+A large silver mirror floats in the huge space about this room.~
+~
+12 2|32 0
+0 0 0 0 
+5 0 0
+E
+gate~
+You see a list of names about the mirror.
+Canyon. Shard. Temple. Pentagram. Galaxy. Mega City. Mahn-Tor.~
+#0
+
+
+#ROOMS
+#13700
+The Entrance~
+You are standing Before Arkyn's Home.  You get a sense of awe as you look upon the massive flying castle.
+~
+0 4|8|8192|16384|4194304 0
+D0
+~
+~
+2 -1 13701
+S
+#13701
+The Living Room~
+You are standing in room the living room.  It is decorated with many beutifull pieces of art.
+~
+0 8|8192|4194304 0
+D0
+~
+~
+1 -1 13709
+D1
+~
+~
+2 -1 13702
+D2
+~
+~
+2 -1 13700
+S
+#13702
+A Hallway~
+You are standing in a long hallway.  It is light by strange lamps, with an erire blue light.
+~
+0 8|8192|4194304 0
+D1
+~
+~
+0 -1 13703
+D3
+~
+~
+2 -1 13701
+S
+#13703
+A Hallway~
+You are standing in a long hallway.  It is light by strange lamps, with an erire blue light.
+~
+0 8|8192|4194304 0
+D1
+~
+~
+0 -1 13704
+D3
+~
+~
+0 -1 13702
+S
+#13704
+A Hallway~
+You are standing in a long hallway.  It is light by strange lamps, with an erire blue light.
+~
+0 8|8192|4194304 0
+D1
+~
+~
+2 -1 13705
+D3
+~
+~
+0 -1 13703
+S
+#13705
+The Bedroom~
+You are standing in the bed room of Arkyn.
+~
+0 4|8|512|8192|4194304 0
+D3
+~
+~
+2 -1 13704
+D5
+~
+~
+2 -1 13706
+S
+#13706
+The Inner Sanctum~
+You are standing in the inner sanctum of Arkyn.  You had best leave before he get's angry.
+~
+0 4|8|256|1024|8192|4194304 0
+D0
+~
+~
+0 -1 13707
+D2
+~
+~
+0 -1 13710
+D4
+~
+~
+2 -1 13705
+E
+dt~
+A huge blast of light rains down from above!  You Had Better Leave.~
+S
+#13707
+The Armoury~
+You are standing in Arkyn's Armoury.  All forms of arcane weapons and armour lie here.
+~
+0 4|8|1024|8192|4194304 0
+D2
+~
+~
+0 -1 13706
+S
+#13708
+The Temple of Law~
+You are standing in the Temple of Law.  This place is a strange construction of advanced materials.  Beautifull flying butresses support the walls of this place.
+~
+0 4|8|1024|8192 0
+S
+#13709
+The Balcony~
+You are standing on a balcony.  You see an incredible biew of open space.  You are in Awe.  In all Directions you see the cold void.
+~
+0 1|512|8192 1
+D0
+~
+~
+0 -1 8604
+D2
+~
+~
+1 -1 13701
+S
+#13710
+The Teseract.~
+You are standing in a teseract.  All sides seem to mix into each other as you are floating in space.
+~
+0 4|8|2048|8192 9
+D0
+~
+~
+0 -1 13706
+T
+pentagram~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 1390 0
+T
+galaxy~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 9301 0
+T
+megacity~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 8001 0
+T
+drow~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 5100 0
+T
+mahntor~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2362 0
+T
+shard~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 12500 0
+T
+set~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 400 0
+T
+darklight~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 6646 0
+T
+torc alta~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 6071 0
+T
+mage~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 20000 0
+S
+#0
+
+
+#RESETS
+O 1 13705 100 13705			a large king size bed to The Bedroom
+O 1 13708 100 13707			a glass cabinet to the armoury  
+P 1 13700 100 13708			a Cybertronic Defense Band to A room
+P 1 13701 100 13708			a pair of MkX Power Gloves to A room
+P 1 13702 100 13708			a set of Powered Armour Sleeves to A room
+O 1 13706 100 13708			a small altar to The Temple of Law
+P 1 13703 100 13706			a wedding ring to the small altar
+P 1 13704 100 13706			a wedding ring to the small altar
+D 1 13700 0 2			; The Entrance Lock North
+D 1 13701 1 2			; The Living Room Lock East
+D 1 13704 1 2			; A Hallway Lock East
+*
+M 1 13700 1 13701			Guardian Dragon to the Living Room
+S
+
+
+#SPECIALS
+M  13700 spec_breath_any			The Guadian Dragon
+S
+
+
+#$

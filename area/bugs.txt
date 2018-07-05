@@ -1,0 +1,180 @@
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Fread_char: no match. WORD: [0m~
+[*****] BUG: Fread_char: no match. WORD: [0m~
+[*****] BUG: Fread_char: no match. WORD: [0m~
+[*****] BUG: Fread_char: no match. WORD: [0m~
+[*****] BUG: Fread_char: no match. WORD: [0m~
+[*****] BUG: Fread_char: no match. WORD: [0m~
+[*****] BUG: Fread_char: no match. WORD: [0m~
+[*****] BUG: Fread_char: no match. WORD: [0m~
+[*****] BUG: Could not open one of the note files in append mode
+[*****] BUG: Could not open one of the note files in append mode
+[*****] BUG: Could not open one of the note files in append mode
+[*****] BUG: Could not open one of the note files in append mode
+[*****] BUG: Could not open one of the note files in append mode
+[*****] BUG: Could not open one of the note files in append mode
+[*****] BUG: Could not open one of the note files in append mode
+[*****] BUG: Could not open one of the note files in append mode
+[*****] BUG: Could not open one of the note files in append mode
+[*****] BUG: Fread_char: no match. WORD: [0m~
+[*****] BUG: Fread_char: no match. WORD: [0m
+[*****] BUG: Fread_char: no match. WORD: [0m
+[*****] BUG: Fread_char: no match. WORD: [0m~
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 15 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[ 9254] Moloch: leech dont work, blink crashes...
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 15 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Do_brandish: bad sn -1.
+[*****] BUG: Do_brandish: bad sn -1.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Load_specials: 'M': vnum 10000.
+[*****] BUG: Load_specials: 'M': vnum 10000.
+[*****] BUG: Load_specials: 'M': vnum 29100.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Do_list: bad pet shop at vnum 1204.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 15 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Fread_char: no match. WORD: [0;0;37m~
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Affect_location_name: unknown location -99.
+[*****] BUG: Affect_modify: unknown location -99.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Item_type_name: unknown type 48.
+[ 3054] Anarta: when i change into a wolf and die or change into human then wolf again my hr and dr go up alot
+[*****] BUG: Affect_modify: unknown location -99.
+[*****] BUG: Fread_char: no match. WORD: Bounty

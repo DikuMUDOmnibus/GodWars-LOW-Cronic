@@ -1,0 +1,76 @@
+#AREADATA
+Name        SirMog  DaNeGuArD Castle~
+Builders    Sirmog~
+VNUMs       90100 90199
+Security    9
+Recall      3001
+End
+
+
+
+#MOBILES
+#90100
+no name~
+(no short description)~
+(no long description)
+~
+~
+1 0 0 S
+3002 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#90100
+daneguard power~
+the power of DaNeGuArD~
+The power of DaNeGuArD is here.~
+~
+50 323 1
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#90100
+~
+~
+0 24590 0
+D0
+~
+~
+0 0 3001
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

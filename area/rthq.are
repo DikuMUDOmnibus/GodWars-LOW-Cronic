@@ -1,0 +1,207 @@
+#AREADATA
+Name        Cyberace RTHQ~
+Builders    None~
+VNUMs       10000 10008
+Security    3
+Recall      0
+End
+
+
+
+#MOBILES
+#10000
+Fenris~
+The Fenris Wolf~
+The Fenris Wolf guards these halls.
+~
+The Fenris Wolf guards these halls.  And sneers at your appearance.
+~
+67 168 1000 S
+2994 2 2 1d1+1499 2d4+30
+12000 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#10000
+Portal Room~
+You stand i a room full of portals to different places of this wold
+Just look at the sign or plaque.
+~
+0 8 0
+E
+sign plaque~
+The sign seems to be a list of areas.  The following are listed:
+Timelord, Galaxy, Sphinx, Member of Staff, Midgaard.
+~
+T
+sphinx~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 2652 0
+T
+staff~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 25008 0
+T
+midgaard~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 3001 0
+T
+timelord~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 2549 0
+T
+galaxy~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 9302 0
+D4
+~
+~
+0 -1 10001
+S
+#10001
+The Clan Hall~
+~
+0 8 0
+D0
+~
+~
+0 -1 10006
+D1
+~
+~
+0 -1 10002
+D2
+~
+~
+0 -1 10008
+D3
+~
+~
+0 -1 10003
+D4
+~
+~
+0 -1 10004
+D5
+~
+~
+0 -1 10000
+S
+#10002
+The Donation Room~
+~
+0 1032 0
+D1
+~
+~
+0 -1 10005
+D3
+~
+~
+0 -1 10001
+S
+#10003
+The Private Chamber of CyberAce~
+You are standing in a room filled with skulls
+As you look around you realise that i might even not allowed to be here....
+~
+0 520 0
+D1
+~
+~
+0 -1 10001
+S
+#10004
+The Chamber of Armond The Shaman~
+Skulls are flooting in this room, the wall are cowered with blood....Wonder if Armond had a bad day...
+~
+0 520 0
+D5
+~
+~
+0 -1 10001
+S
+#10005
+Clan Combat Room~
+~
+0 8200 0
+D3
+~
+~
+0 -1 10002
+S
+#10006
+Guarded Halls~
+In these halls stands the mighty guardian of the Red Talons.
+~
+0 8200 0
+D0
+~
+~
+0 -1 10007
+D2
+~
+~
+0 -1 10001
+S
+#10007
+Entrence To The Migthy Red Talons HQ~
+As you stand in the entrence to the HQ of the Red Talons you can smell something not nice
+It smells like a rotten corpse.
+You might wanna lave now...before it's to late
+~
+0 8200 0
+D2
+~
+~
+0 -1 10006
+S
+#10008
+Clan Metting hall~
+~
+0 9224 0
+D0
+~
+~
+0 -1 10001
+S
+#0
+
+
+
+#SPECIALS
+M 10000 spec_guard_werewolf
+S
+
+
+
+#RESETS
+M 0 10000 1 10001
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,215 @@
+#AREA	{  HQ } Infidel Apocalypse HQ~
+ 
+ 
+#MOBILES
+#6640
+The Doomsday Guardian~
+The Doomsday Guardian~
+The Doomsday Guardian stands here without a blink.
+~
+You probobly shouldnt attack this thing!
+~
+1|2|64 8|16|32|128|512|8192|524288|1048576 -1000 S
+999 -21 -20 41d41+410 5d10+25
+125000 0
+8 8 0
+#0
+ 
+#OBJECTS
+#6660
+apocalypse blade~
+The Apocalypse Blade~
+A Blade lies here, Mocking your existance.~
+~
+5 1048578 1|8192
+0 15 25 3 
+5 0 0
+A
+19 15
+A
+18 15
+#6661
+visor godly~
+A Godly Visor~
+the visor lies here~
+~
+9 2580 32769
+0 0 0 0
+10 0 0
+A
+19 1000
+A
+18 1000 
+#0
+ 
+ 
+#ROOMS
+#6647
+Apocalypse Headquarters~
+You are standing in the blood-stained primary chamber of the
+Apocalypse HQ. This HQ was built and designed for the mortals by Infidel.
+There are portals down from here as well as other rooms.
+Feel free to explore and remember the golden rule. Kill or be Killed.
+    DOWN: Portals   NORTH: Spar Room   SOUTH: The Energy Field
+~
+0 8|8 0
+D0
+none~
+none~
+0 -1 6645
+D2
+none~
+none~
+0 -1 6646
+D4
+none~
+none~
+0 -1 6650
+D5
+none~
+none~
+0 -1 6648
+S
+#6646
+The Energy Field~
+This room remains a mystery to even the greatest Godwars
+strategists. The field seems to shimmer and display great far off
+lands. Its is almost as if the field is listening to you in an eerie
+way.Those who figure out how to utilize the field would be
+gifted with near omnipresence.
+~
+0 8|8192 0
+D0
+none~
+none~
+0 -1 6647
+T
+staff~
+$n disappears in an explosion of energy.~
+You appear somewhere else in an explosion of energy.~
+all~
+16384 25008 0
+T
+tl~
+$n disappears in an explosion of energy.~
+You appear somewhere else in an explosion of energy.~
+all~
+16384 2549 0
+S
+#6645
+The Arena~
+You stand in a room soaked with blood. This room was built for
+the Apocalypse mortals to be able to fight without bieng disturbed.
+Spars and such can take place but fights to the death are smiled 
+upon by the implementors.
+~
+0 8|512|8192 0
+D2
+none~
+none~
+0 -1 6647
+S
+#6648
+The First Floor Gates.~
+Here stands a set of gates to across the realm. They are extremely
+useful and those who reap the benefiets shall defnately rise in 
+power quickly.
+    N: Midgaard   S:Dragon Tower  W:High Tower  E:The Pyramid
+~
+0 8|8192 0
+D0
+Midgaard~
+Midgaard~
+0 -1 3001
+D2
+~
+~
+0 -1 2201
+D3
+~
+~
+0 -1 1311
+D1
+~
+~
+0 -1 2633
+D4
+none~
+none~
+0 -1 6647
+D5
+none~
+none~
+0 -1 6649
+S
+#6649
+The Second Floor Gates~
+Here stands a set of gates to across the realm. They are extremely
+useful and those who reap the benefiets shall defnately rise in 
+power quickly.
+     N: Mahn-tor   S:MegaCity  W:Galaxy  E: Canyon
+~
+0 8|8192 0
+D2
+~
+~
+0 -1 8001
+D1
+~
+~
+0 -1 9201
+D3
+~
+~
+0 -1 9302
+D0
+~
+~
+0 -1  2362
+D4
+none~
+none~
+0 -1 6648
+D5
+none~
+none~
+0 -1 6651
+S
+#6650
+The Observation Deck~
+You can see a fabulous view of the entire world of  Godwars.
+In the distance you see the extraordinary lands of Drow City and
+Mega City one. And in odd rifts you get a glimpse of Doom and other
+futuristic areas.
+~
+0 8|8192 0
+D5
+none~
+none~
+0 -1 6647
+S
+#6651
+The Pit~
+This is the deep pit where Infidel throws his scum after a hard 
+days work. I would be careful these mobs do NOT appear freindly at all.
+You may want to escape as quick as possible.
+~
+0 8|8192 0
+D4
+none~
+none~
+0 -1 6649
+S
+#0
+#RESETS
+M 1 6640 1 6647           Guardian
+E 0 6660 0 16           Guardians Blade 
+E 0 29520 0 18                Mask
+S
+#SPECIALS
+M 6640 spec_clan_werewolf 
+S
+#$
+
+
+

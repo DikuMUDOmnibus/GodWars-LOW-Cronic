@@ -1,0 +1,67 @@
+#AREA    Shakti    Hall of Honor~
+
+
+
+#HELPS
+0 $~
+
+
+#MOBILES
+#0
+
+#OBJECTS
+#0
+
+
+
+
+#ROOMS
+
+#30100
+The Garou Hall Of Honor~
+
+This great room is buried deep within the Earth, within a solid formation
+of white marble. Alcoves have been cut into the walls, and great statues
+of crystal sparkle within them. Many great wolves are remembered here,
+both in human and wolf form, each playing a part in the ongoing war to
+protect mother Earth. A great pride wells up within you, as well as a
+great sense of humility, you are just one small piece in the grand game...
+~
+0 8|16|1024 1
+S
+
+
+#30200
+The Valley of The Kensai~
+
+This valley is a physical impossibility...It rests between the two highest
+mountain chains in the world. There are no known entrances, in fact the
+mountains themselves are said to be made from the original matter first
+created by the gods. Time has not worn the mountain peaks, they are jagged,
+sharp, a testament to creation. The substance from which the mountain is
+made is so hard and solid in fact, that it appears as if this place would
+survive the end of the world. Here, in this solitary, frozen place, gather
+the souls of the Kensai who have gone before. You can make out statues set
+along the valley, wearing all manner of dress, some you can recognize as being
+the style of towns near you, some, it would seem are completely bizzare.
+~
+0 8|16|1024 1
+S
+
+#0
+
+#RESETS
+S
+
+#SHOPS
+0
+
+#SPECIALS
+S
+
+#$
+
+
+
+
+

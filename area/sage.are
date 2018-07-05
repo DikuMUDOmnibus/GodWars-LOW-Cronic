@@ -1,0 +1,156 @@
+#AREADATA
+Name        [ Sage ] Specials~
+Builders    Sage~
+VNUMs       70000 70050
+Security    1
+Recall      3001
+End
+
+
+
+#MOBILES
+#70000
+Gaia~
+Gaia~
+Gaia, the Mother of the Earth stands here watching over all wolves.
+~
+~
+1 524416 1 S
+2962 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#70001
+caine vampire~
+Caine~
+Caine the vampire stands here waiting to feed on your blood.
+~
+~
+1 524416 1 S
+3034 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#70002
+allah monk~
+Allah the master monk~
+Allah the master monk sits here meditating.
+~
+~
+1 524416 1 S
+2972 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#70003
+lloth drow spider queen~
+Lloth the Spider Queen~
+Lloth stands here waiting for his servants.
+~
+~
+1 524416 1 S
+3002 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#70004
+old ninja~
+An old ninja~
+An old ninja stands here you can't tell what he is going to do.
+~
+~
+1 524416 1 S
+3025 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#70005
+nightmare ghost evil~
+The nightmare~
+An evil ghost like substance floats here.
+~
+~
+1 524416 1 S
+2977 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#70006
+satan devil demon~
+Satan the demon lord~
+Satan is here ready to take your soul!
+~
+~
+67 524416 1 S
+1489 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#70007
+wizard sorcerer~
+The master wizard~
+The master wizard hovers here casting spells!
+~
+~
+1 524416 1 S
+3009 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#70008
+zombie lord~
+the Zombie Lord~
+The Zombie Lord is here, harvesting zombies!
+~
+The Zombie Lord looks quite intimidating, like Death itself.  He is
+stalking around the land harvesting corpses to make followers to assist
+him
+on the day of the Apocalypse.
+~
+11297 5776040 0 S
+2517 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#70000
+pile ashes~
+a pile of ashes~
+A pile of black dust lies on the ground here.~
+~
+13 0 0
+0 0 0 0
+2 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#70000
+The Void, Kinda.~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$
